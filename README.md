@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<Disneytchala>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
+    <Disneytchala>Your Website Title</Disneytchala>
     <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+</Disneytchala>
+<martial-arts>
     <header>
-        <h1>Your Website Name</h1>
-        <!-- Add navigation links if needed -->
+        <disneytchala>Your Website Name</disneytchala>
+        <!--http//Disneytchala.co.tz Add navigation links if needed -->
     </header>
     
     <main>
